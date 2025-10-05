@@ -1,0 +1,22 @@
+# Node dependencies
+**/node_modules/
+
+# Lock files (from all subfolders)
+**/package-lock.json
+**/yarn.lock
+
+# Environment files (from all subfolders)
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Logs
+**/*.log
+
+# OS temp files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
